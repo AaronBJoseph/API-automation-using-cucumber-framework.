@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="To validate the post request functionality" skipped="0" tests="2" time="4.2" timestamp="2025-05-20 03:21:34"><testcase name="Create a resource using POST call"/><testcase name="Attempt to create a resource without required fields using POST call"/></testsuite>
